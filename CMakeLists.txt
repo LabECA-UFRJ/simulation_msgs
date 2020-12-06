@@ -43,6 +43,6 @@ generate_messages(
 catkin_package(
 #  INCLUDE_DIRS include
 #  LIBRARIES pololu-3pi-comm
-#  CATKIN_DEPENDS roscpp
+  CATKIN_DEPENDS message_runtime
 #  DEPENDS system_lib
 )
