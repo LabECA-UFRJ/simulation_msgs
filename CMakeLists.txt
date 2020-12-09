@@ -22,6 +22,7 @@ add_message_files(
     TwistRobot.msg
     PoseRobot.msg
     Robot.msg
+    RobotPoseArray.msg
 )
 
 ## Generate added messages and services with any dependencies listed here
