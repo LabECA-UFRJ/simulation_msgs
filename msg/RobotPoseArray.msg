@@ -1,2 +1,2 @@
-std_msgs/Header
+std_msgs/Header header
 PoseRobot[] robots
