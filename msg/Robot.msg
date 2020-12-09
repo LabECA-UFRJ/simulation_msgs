@@ -1,3 +1,3 @@
 int32 robot_id
-geometry_msgs/Vector position
+geometry_msgs/Vector3 position
 float32 rotation

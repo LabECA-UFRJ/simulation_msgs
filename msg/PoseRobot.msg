@@ -1,2 +1,2 @@
 Header header
-geometry_msgs/Pose
+geometry_msgs/Pose pose
