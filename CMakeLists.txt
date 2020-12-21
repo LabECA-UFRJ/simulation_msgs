@@ -18,11 +18,10 @@ find_package(catkin REQUIRED COMPONENTS
 add_message_files(
     DIRECTORY msg
     FILES
-    Header.msg
     TwistRobot.msg
     PoseRobot.msg
     Robot.msg
-    RobotPoseArray.msg
+    PoseRobotArray.msg
 )
 
 ## Generate added messages and services with any dependencies listed here
