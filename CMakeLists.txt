@@ -18,7 +18,7 @@ find_package(catkin REQUIRED COMPONENTS
 add_message_files(
     DIRECTORY msg
     FILES
-    TwistRobot.msg
+    RobotWheelSpeed.msg
     PoseRobot.msg
     Robot.msg
     PoseRobotArray.msg
